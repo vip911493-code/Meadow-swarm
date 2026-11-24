@@ -1,0 +1,6 @@
+{
+  "name": "Meadow Swarm",
+  "description": "Steer a buzzing 3D bee swarm through sunlit wildflower meadows—pass multiplier gates, gather golden pollen, and dodge thorny hazards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
